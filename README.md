@@ -823,7 +823,7 @@ RegO 提出一个三模块协同的持续学习框架，通过**神经元区域�
 
 
 
-## 🔧 开源工具汇总
+# 🔧 开源工具汇总
 
 | 仓库名称 | 仓库地址 | 做法 |
 |----------|----------|------|
@@ -836,7 +836,7 @@ RegO 提出一个三模块协同的持续学习框架，通过**神经元区域�
 | SSL_Anti-spoofing | [https://github.com/TakHemlata/SSL_Anti-spoofing](https://github.com/TakHemlata/SSL_Anti-spoofing) | 利用 wav2vec2 和数据增强实现 |
 | SafeEar | [https://github.com/LetterLiGo/SafeEar](https://github.com/LetterLiGo/SafeEar) |  |
 
-## 📊 现状评估
+# 📊 现状评估
 
 ### 🔗 测试代码
 - **项目地址**：[https://github.com/xieyuankun/Codecfake](https://github.com/xieyuankun/Codecfake)
